@@ -1,0 +1,7 @@
+{ "_id" : 2, 
+	"title" : "HARRY POTTER AND THE ORDER OF THE PHOENIX", 
+	"author" : "JK ROWLING", 
+	"genre" : "ADVENTURE", 
+	"publication_information" : [ { "year" : 2017, "publisher" : "CULTURA", "country" : "ENGLAND" } ], 
+	"availability" : [ { "copies" : 4, "available" : "Y", "users" : [ { "0" : {  } } ] } ] 
+}

@@ -1,0 +1,27 @@
+{
+  "name": "assign-04",
+  "version": "1.0.0",
+  "description": "bookrent application",
+  "main": "bookrent.js",
+  "dependencies": {
+    "hapi": "^16.5.0",
+    "inert": "^4.2.1",
+    "joi": "^10.6.0",
+    "mongodb": "^2.2.30",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-andf/wmdd4935-final_assign_node.git"
+  },
+  "author": "Daniel Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-andf/wmdd4935-final_assign_node/issues"
+  },
+  "homepage": "https://github.com/daniel-andf/wmdd4935-final_assign_node#readme"
+}
