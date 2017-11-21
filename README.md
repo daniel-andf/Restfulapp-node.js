@@ -1,5 +1,3 @@
-Group: Daniel Fonseca
-	   Roberto Filho
 
 I provided for PUT and DELETE methods also a POST option through webpages where you can test the functions. For PUT and DELETE method testing, you must use the HTTP command such as Postman.
 
